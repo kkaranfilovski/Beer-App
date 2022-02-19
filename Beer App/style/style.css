@@ -1,0 +1,22 @@
+#home-page {
+    background-color: rgb(223, 236, 239);
+    border-radius: 5px;
+}
+
+#header-1 {
+    font-weight: 300;
+    font-size: 50px;
+}
+
+.navbar-brand, .nav-link {
+    cursor: pointer;
+}
+
+.card-img-top {
+    width: 10rem;
+    align-items: center;
+}
+
+#show-pages {
+    margin-top: 30px;
+}
